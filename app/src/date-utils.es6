@@ -148,6 +148,10 @@ const DateUtils = {
     return DateUtils.minutesFromNow(120);
   },
 
+  in3Hours() {
+    return DateUtils.minutesFromNow(180);
+  },
+
   laterToday(now = moment()) {
     return oclock(now.add(3, 'hours'));
   },

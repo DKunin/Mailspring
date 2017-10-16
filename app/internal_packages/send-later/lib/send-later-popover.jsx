@@ -6,6 +6,7 @@ import { DatePickerPopover } from 'mailspring-component-kit';
 const SendLaterOptions = {
   'In 1 hour': DateUtils.in1Hour,
   'In 2 hours': DateUtils.in2Hours,
+  'In 3 hours': DateUtils.in3Hours,
   'Later today': DateUtils.laterToday,
   'Tomorrow morning': DateUtils.tomorrow,
   'Tomorrow evening': DateUtils.tomorrowEvening,

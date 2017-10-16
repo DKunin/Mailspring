@@ -11,8 +11,6 @@ EventedIFrame = require './evented-iframe'
 
 
 INBOX_ZERO_ANIMATIONS = [
-  'gem',
-  'oasis',
   'tron',
   'airstrip',
   'galaxy',

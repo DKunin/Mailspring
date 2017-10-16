@@ -9,12 +9,9 @@ const ActivityListButtonWithTutorialTip = HasTutorialTip(ActivityListButton, {
 });
 
 export function activate() {
-  ComponentRegistry.register(ActivityListButtonWithTutorialTip, {
-    location: WorkspaceStore.Location.RootSidebar.Toolbar,
-  });
-  ActivityListStore.activate();
+  // ActivityListStore.activate();
 }
 
 export function deactivate() {
-  ComponentRegistry.unregister(ActivityListButtonWithTutorialTip);
+  // ComponentRegistry.unregister(ActivityListButtonWithTutorialTip);
 }
