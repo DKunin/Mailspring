@@ -1,6 +1,13 @@
 # Mailspring Changelog
 
-### 1.0.4 (Coming Soon)
+### 1.0.5 (Coming Soon)
+
+Features:
+
+- A new bar appears when you view the Trash and Spam folders allowing you to permanently delete messages.
+
+
+### 1.0.4 (10/12/2017)
 
 Features:
 
